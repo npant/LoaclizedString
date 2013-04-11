@@ -1,0 +1,4 @@
+LoaclizedString
+===============
+
+Localizable
